@@ -1,0 +1,22 @@
+{
+  "name": "star-px-to-viewport",
+  "version": "1.0.0",
+  "description": "It's a small tool based on postcss-px-to-viewport and tailwindcss",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taizhengfs/star-px-to-viewport.git"
+  },
+  "author": "fangsheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taizhengfs/star-px-to-viewport/issues"
+  },
+  "homepage": "https://github.com/taizhengfs/star-px-to-viewport#readme"
+}
